@@ -16,17 +16,6 @@ The Raspberry Pi streams camera footage via **RTSP**, a more powerful computer p
 
 ---
 
-## 📸 Demo & Screenshots
-
-> **Note:** Add your project demo GIF here!  
-> `![Hand Tracking Demo](assets/demo.gif)`
-
-| Web Dashboard | Hardware Setup |
-| :---: | :---: |
-| `![Dashboard](assets/dashboard.png)` <br> *Live Flask Tracking Dashboard* | `![Hardware](assets/hardware.jpg)` <br> *Raspberry Pi Zero 2W Setup* |
-
----
-
 ## 🏗️ System Architecture
 
 The architecture relies on a lightweight RTSP server on the Pi and offloads the heavy AI processing to a computer.
