@@ -5,6 +5,15 @@
 
 | ![alt text for image 1](rtsp-images/live.png) | ![alt text for image 2](rtsp-images/full.jfif) |
 
+<div class="image-container">
+  <div class="column">
+    <img src="rtsp-images/live.png.jpg" alt="Description of Image 1">
+  </div>
+  <div class="column">
+    <img src="rtsp-images/live.png.jfif" alt="Description of Image 2">
+  </div>
+</div>
+
 
 A **low-latency hand tracking system** built using a Raspberry Pi Zero 2W, USB Webcam, RTSP streaming (H264), Google's MediaPipe Hand Tracking, and a Flask Web Streaming dashboard. 
 
