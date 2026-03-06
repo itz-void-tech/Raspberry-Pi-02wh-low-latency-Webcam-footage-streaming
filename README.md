@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
-|!(image1-path.jpg) | !(image2-path.png) |
+| ![alt text for image 1](rtsp-images/live.png) | ![alt text for image 2](rtsp-images/full.jfif) |
 
 
 A **low-latency hand tracking system** built using a Raspberry Pi Zero 2W, USB Webcam, RTSP streaming (H264), Google's MediaPipe Hand Tracking, and a Flask Web Streaming dashboard. 
